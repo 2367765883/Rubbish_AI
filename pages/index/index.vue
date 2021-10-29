@@ -1,12 +1,5 @@
  <template>
 	<view class="content">
-		<!-- <view>
-			<view>
-			<video show-mute-btn="true" muted="true" id="myVideo" src="https://www.mee.gov.cn/ywgz/xcjy/xccpzyk/xcp/202105/P020210526567255062091.mp4" autoplay="true" loop="true"></video>
-			</view>
-		</view> -->
-		<!-- <button @click="pop" type="default">弹出</button> -->
-		
 		<uni-popup ref="popup" type="bottom">
 			<view>
 				<scroll-view show-scrollbar="true" scroll-y="true" class="s-c-list-x">
@@ -49,12 +42,7 @@
 				<image src="../../static/types/typeicon_4.png" style="width:120px;" mode="widthFix"></image>
 				<view>{{name[3]}}</view>
 			</view>
-		</view>
-		<!-- <button type="primary" @click="getPhoto()" style="margin-bottom: 15px;">拍照或或相册获取照片查询</button> -->
-		<!-- <image v-show="flag" :src="imgPath" mode="widthFix" style="width: 100%;"></image> -->
-		<!-- <view style="width: 100%;font-size: 18px;text-align: center;">{{keyword}}</view> -->
-		<!-- <view style="margin-bottom: 10px;font-size: 20px;color: #DD524D;">以下为可能结果列表,请参照：</view> -->
-		
+		</view>		
 	</view>
 </template>
 
@@ -522,9 +510,6 @@
 		justify-content: center;
 	}
 	.s-c-list-x{
-	        /* display: flex; */
-	        /* flex-direction: row; */
-	        /* flex-wrap: nowrap; */
 	        white-space: nowrap;
 	        width: 100%;
 	        height: 450upx;

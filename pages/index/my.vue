@@ -5,9 +5,7 @@
 				<view  class="imgAvatar">
 					<view class="iavatar" :style="'background: url('+avater+') no-repeat center/cover #eeeeee;'"><image :src="avater"></image></view>
 				</view>
-				<!-- <text v-if="avater">修改头像</text> -->
 				<text v-if="flag">授权微信</text>
-				<!-- <button v-if="!avater" open-type="getUserInfo" @tap="getUserInfo" class="getInfo"></button> -->
 			</view>
 			<view class="ui-list">
 				<text>昵称</text>
