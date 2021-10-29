@@ -1,0 +1,97 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "垃圾分类"
+			}
+		},
+		{
+			"path": "pages/index/wet",
+			"style": {
+				"navigationBarTitleText": "湿垃圾"
+			}
+		},
+		{
+			"path": "pages/index/sell",
+			"style": {
+				"navigationBarTitleText": "上门回收"
+			}
+		},
+		{
+			"path": "pages/index/change",
+			"style": {
+				"navigationBarTitleText": "变废为宝"
+			}
+		},
+		{
+			"path": "pages/index/home_ser",
+			"style": {
+				"navigationBarTitleText": "家政服务"
+			}
+		},
+		{
+			"path": "pages/index/dry",
+			"style": {
+				"navigationBarTitleText": "干垃圾"
+			}
+		},
+		{
+			"path": "pages/index/reuse",
+			"style": {
+				"navigationBarTitleText": "可回收垃圾"
+			}
+		},
+		{
+			"path": "pages/index/Harmful",
+			"style": {
+				"navigationBarTitleText": "有害垃圾"
+			}
+		},
+		{
+			"path": "pages/index/square",
+			"style": {
+				"navigationBarTitleText": "广场"
+			}
+		},
+		{
+			"path": "pages/index/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "垃圾分类",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color":"#121212",
+		"fontSize":"15px",
+		"backgroundColor":"#FCFCFC",
+		"list":[
+			{
+				"text":"主页",
+				"pagePath":"pages/index/index",
+				"iconPath":"static/img/find.png",
+				"selectedIconPath":"static/img/find.png"
+			},
+			{
+				"text":"广场",
+				"pagePath":"pages/index/square",
+				"iconPath":"static/img/square.png",
+				"selectedIconPath":"static/img/square.png"
+			},
+			{
+				"text":"我的",
+				"pagePath":"pages/index/my",
+				"iconPath":"static/img/my.png",
+				"selectedIconPath":"static/img/my.png"
+			}
+		]
+	}
+	
+	
+}

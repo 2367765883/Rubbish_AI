@@ -1,0 +1,175 @@
+.hm-talk-card {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: 750rpx;
+  height: 510.39rpx;
+}
+
+.head {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 13.64rpx;
+  border-radius: 38.96rpx;
+  box-shadow: 0px 10px 30px rgba(209, 213, 223, 0.5);
+  background-color: #5351fb;
+  width: 720.78rpx;
+  height: 432.47rpx;
+}
+
+.state {
+  display: flex;
+  position: relative;
+  align-items: center;
+  align-self: center;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 58.44rpx;
+  width: 598.05rpx;
+  height: 58.44rpx;
+}
+
+.imghead {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  height: 58.44rpx;
+}
+
+.avator {
+  margin-right: 29.22rpx;
+  width: 58.44rpx;
+  height: 58.44rpx;
+}
+
+.name {
+  opacity: 1;
+  max-width: 259.09rpx;
+  height: 38.96rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96rpx;
+  white-space: nowrap;
+  color: #ffffff;
+  font-family: MicrosoftYaHei, Microsoft YaHei;
+  font-size: 31.17rpx;
+  font-weight: normal;
+}
+
+.stateimg {
+  width: 35.06rpx;
+  height: 7.79rpx;
+}
+
+.main {
+  display: flex;
+  position: relative;
+  align-items: center;
+  align-self: center;
+  flex-direction: row;
+  margin-top: 62.34rpx;
+  width: 601.95rpx;
+  height: 38.96rpx;
+}
+
+.text {
+  font-weight: normal;
+  font-size: 31.17rpx;
+  color: #ffffff;
+  line-height: 38.96rpx;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  float: left;
+  white-space: nowrap;
+  font-family: Helvetica;
+}
+
+.body {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 66.23rpx;
+  margin-left: 64.29rpx;
+  width: 428.57rpx;
+  height: 38.96rpx;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  height: 38.96rpx;
+}
+
+.iconfriendsHelp {
+  margin-right: 15.58rpx;
+  width: 35.06rpx;
+  height: 29.22rpx;
+}
+
+.num {
+  opacity: 1;
+  max-width: 64.29rpx;
+  height: 38.96rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96rpx;
+  white-space: nowrap;
+  color: #ffffff;
+  font-family: Helvetica;
+  font-size: 31.17rpx;
+  font-weight: normal;
+}
+
+.like {
+  opacity: 1;
+  max-width: 77.92rpx;
+  height: 38.96rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96rpx;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 31.17rpx;
+  font-weight: 400;
+}
+
+.group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  height: 38.96rpx;
+}
+
+.iconTest {
+  margin-right: 13.64rpx;
+  width: 38.96rpx;
+  height: 37.01rpx;
+}
+
+.commentNum {
+  opacity: 1;
+  line-height: 38.96rpx;
+  white-space: nowrap;
+  color: #ffffff;
+  font-family: Helvetica;
+  font-size: 31.17rpx;
+  font-weight: normal;
+}
+
+.comments {
+  opacity: 1;
+  max-width: 114.94rpx;
+  height: 38.96rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96rpx;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 31.17rpx;
+  font-weight: 400;
+}
