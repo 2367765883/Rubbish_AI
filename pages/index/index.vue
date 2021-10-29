@@ -42,7 +42,7 @@
 				<image src="../../static/types/typeicon_4.png" style="width:120px;" mode="widthFix"></image>
 				<view>{{name[3]}}</view>
 			</view>
-		</view>		
+		</view>
 	</view>
 </template>
 
@@ -211,33 +211,27 @@
 					},
 					{
 						name:"",
-						type:"",
-						
+						type:"",						
 					},
 					{
 						name:"",
-						type:"",
-						
+						type:"",					
 					},
 					{
 						name:"",
-						type:"",
-						
+						type:"",						
 					},
 					{
 						name:"",
-						type:"",
-						
+						type:"",						
 					},
 					{
 						name:"",
-						type:"",
-						
+						type:"",						
 					},
 					{
 						name:"",
-						type:"",
-						
+						type:"",						
 					},
 					{
 						name:"",
@@ -245,118 +239,95 @@
 					},
 					{
 						name:"",
-						type:"",
-						
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:""						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",						
+					},
+					{
+						name:"",
+						type:"",	
+					},
+					{
+						name:"",
+						type:"",	
 					},
 					{
 						name:"",
 						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
-					},
-					{
-						name:"",
-						type:"",
-						
 					}
 				]
 			}
@@ -510,6 +481,9 @@
 		justify-content: center;
 	}
 	.s-c-list-x{
+	        /* display: flex; */
+	        /* flex-direction: row; */
+	        /* flex-wrap: nowrap; */
 	        white-space: nowrap;
 	        width: 100%;
 	        height: 450upx;

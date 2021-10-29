@@ -9,7 +9,7 @@
 					<grid-item iconImg="../../static/img_sq/trade.png" url="change" text="变废为宝"></grid-item>
 					<grid-item iconImg="../../static/img_sq/reget.png" url="sell" text="上门回收"></grid-item>
 					<grid-item iconImg="../../static/img_sq/help.png" url="home_ser" text="家政服务"></grid-item>
-					<grid-item iconImg="../../static/img_sq/lease.png" url="" text="房屋出租"></grid-item>
+					<grid-item iconImg="../../static/img_sq/lease.png" url="lease" text="房屋出租"></grid-item>
 					<grid-item iconImg="../../static/img_sq/tra.png" url="" text="搬家运输"></grid-item>
 					<grid-item iconImg="../../static/img_sq/send.png" url="" text="帮忙跑腿"></grid-item>
 				</grid>

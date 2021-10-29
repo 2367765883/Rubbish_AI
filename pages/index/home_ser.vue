@@ -1,5 +1,11 @@
 <template>
-	<view>
+	<view class="content">
+		<view class="uni-padding-wrap uni-common-mt">
+					<view>
+						<video autoplay="true" loop="true" muted="true" id="myVideo" src="http://vd3.bdstatic.com/mda-mg49q4yn406av51d/360p/h264/1625467882180077163/mda-mg49q4yn406av51d.mp4"
+							show-mute-btn="true" @error="videoErrorCallback" :danmu-list="danmuList" enable-danmu danmu-btn controls></video>
+					</view>
+		</view>
 		<grid autoplay="true" interval="1000" title="为您提供最有力的帮助">
 			<grid-item iconImg="../../static/img_home/sweep.png" url="change" text="卫生打扫"></grid-item>
 			<grid-item iconImg="../../static/img_home/nanny.png" url="sell" text="保姆"></grid-item>
@@ -30,6 +36,12 @@
 
 <style>
 	.text{
-		background-color: #C0C0C0;
+		background-color: #CCE6FF;
+	}
+	.content {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
 	}
 </style>

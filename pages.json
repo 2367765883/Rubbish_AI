@@ -37,6 +37,12 @@
 			}
 		},
 		{
+			"path": "pages/index/lease",
+			"style": {
+				"navigationBarTitleText": "房屋出租"
+			}
+		},
+		{
 			"path": "pages/index/reuse",
 			"style": {
 				"navigationBarTitleText": "可回收垃圾"
