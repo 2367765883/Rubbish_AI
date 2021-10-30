@@ -1,7 +1,7 @@
 <template>
 	<view>
-		<view>
-			<Citylist :getCity="getCity"></Citylist>
+		<view style="background-color: #CCE6FF;">
+			<Citylist :getCity="getCity" style="background-color: #FCF7E9;"></Citylist>
 		</view>
 		<view  style="margin-bottom: 10px;">
 			<special-banner :banner-list="bannerList" :swiper-config="swiperConfig"></special-banner>

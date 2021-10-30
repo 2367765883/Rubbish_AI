@@ -37,9 +37,21 @@
 			}
 		},
 		{
+			"path": "pages/index/movehome",
+			"style": {
+				"navigationBarTitleText": "搬家"
+			}
+		},
+		{
 			"path": "pages/index/lease",
 			"style": {
 				"navigationBarTitleText": "房屋出租"
+			}
+		},
+		{
+			"path": "pages/index/help",
+			"style": {
+				"navigationBarTitleText": "帮忙跑腿"
 			}
 		},
 		{

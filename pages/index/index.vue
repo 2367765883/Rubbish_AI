@@ -480,6 +480,7 @@
 		align-items: center;
 		justify-content: center;
 	}
+	
 	.s-c-list-x{
 	        /* display: flex; */
 	        /* flex-direction: row; */

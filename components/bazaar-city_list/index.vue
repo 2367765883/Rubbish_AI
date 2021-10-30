@@ -6,7 +6,7 @@
 					<view class="city-list-content" id="location_city">
 						<view class="city-title">定位城市</view>
 						<view class="city-list city-list-inline" @tap="location">
-							<view class="location-city">{{locationCity}}</view>
+							<view class="location-city">当前位置：{{locationCity}}</view>
 						</view>
 					</view>
 				</view>
@@ -166,7 +166,7 @@
 		font-size: 14px;
 		color: #333;
 		.city-list-content{
-			margin-right: 25px;
+			margin-right: 0px;
 		}
 		.city-title{
 			padding-left: 15px;
