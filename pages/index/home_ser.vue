@@ -7,9 +7,9 @@
 					</view>
 		</view>
 		<grid autoplay="true" interval="1000" title="为您提供最有力的帮助">
-			<grid-item iconImg="../../static/img_home/sweep.png" url="change" text="卫生打扫"></grid-item>
-			<grid-item iconImg="../../static/img_home/nanny.png" url="sell" text="保姆"></grid-item>
-			<grid-item iconImg="../../static/img_home/mather.png" url="home_ser" text="月嫂"></grid-item>
+			<grid-item iconImg="../../static/img_home/sweep.png" url="" text="卫生打扫"></grid-item>
+			<grid-item iconImg="../../static/img_home/nanny.png" url="" text="保姆"></grid-item>
+			<grid-item iconImg="../../static/img_home/mather.png" url="" text="月嫂"></grid-item>
 			<grid-item iconImg="../../static/img_home/help.png" url="" text="护工"></grid-item>
 			<grid-item iconImg="../../static/img_home/cook.png" url="" text="家用厨师"></grid-item>
 			<grid-item iconImg="../../static/img_home/marry.png" url="" text="婚介"></grid-item>
