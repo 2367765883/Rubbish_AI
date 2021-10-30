@@ -18,17 +18,17 @@
 		data(){
 			return{
 				bannerList: [{
-				            picture: '../../static/img_ch/banner1.png',
-				            title: '闲置的东西也是有利用价值的哦',
-				            description: '在页面中找到你心仪的东西可以置换',
+				            picture: 'https://img10.360buyimg.com/paipai/jfs/t1/167347/22/12172/109385/60505a49Ed111ffdc/60e706df4e67b95a.png',
+				            title: '安心交易',
+				            description: '任何交易问题在七天内都会得到解决',
 				            path: ''
 				        }, {
-				            picture: '../../static/img_ch/banner2.png',
-				            title: '让”不要“的东西产生价值',
-				            description: '绿色环保也是和谐安宁',
+				            picture: 'https://img10.360buyimg.com/paipai/jfs/t1/157598/36/13172/238520/604f32e8Ea5439027/50c2bb97a0b17931.png',
+				            title: '官方严选',
+				            description: '只为给你更好的宝贝',
 				            path: ''
 				        }, {
-				            picture: '../../static/img_ch/banner3.png',
+				            picture: 'https://img1.baidu.com/it/u=3591039153,2364240380&fm=26&fmt=auto',
 				            title: '新年快乐！',
 				            description: '新的一年，活力满满',
 				            path: ''
